@@ -6,4 +6,4 @@
 
 **[Remasking: NuoFaces]()** – Main project description.
 
-**[TD Files]()** – Includes the point cloud model of the mask and the download link of the source file.
+**[TD Files](https://github.com/Mingzhao-Du/Remasking-NuoFaces-Interactive-Art/tree/main/TD%20Files)** – Includes the point cloud model of the mask and the download link of the source file.
